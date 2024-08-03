@@ -22,5 +22,5 @@ ansible-playbook playbook-jenkins-slave.yaml -i hosts
 ```
 To test installation:
 ```
-curl <managed-host-IP>
+curl jenkins-master-IP:8080
 ```
