@@ -24,3 +24,5 @@ To test installation:
 ```
 curl jenkins-master-IP:8080
 ```
+![image](https://github.com/user-attachments/assets/00194025-2cba-4534-9629-71f5a34248b7)
+
