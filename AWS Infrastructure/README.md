@@ -11,7 +11,7 @@ This directory uses Terraform to create the following AWS resources:
 - Public EC2 instance.
 - Private EC2 instance.
 - AWS IAM role for eks workers
-- EKs cluster
+- EKS cluster
 - Security groups
 
 ## Prerequisites
